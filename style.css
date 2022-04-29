@@ -1,0 +1,14 @@
+.about{
+    border: none;
+}
+.about img{
+    height: 200px;
+}
+svg{
+    fill: #0d6efd70;
+    stroke: #00000050;
+}
+
+svg path:hover{
+    fill: pink;
+}
